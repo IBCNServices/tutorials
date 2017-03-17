@@ -1,5 +1,15 @@
 # Github Info
 
+**Overview**
+
+This document contains useful info about Git and Github
+
+- Can't find the info you're looking for? [Create an issue!](https://github.com/IBCNServices/tutorials/issues)
+- Are you stuck? [Create an issue!](https://github.com/IBCNServices/tutorials/issues)
+- Have something to add? [Create a pull request!](https://github.com/IBCNServices/tutorials/edit/master/Github.md)
+
+**Quick-list**
+
 - [What program should I use?](#program)
 - [What is a good workflow?](#workflow)
 - [Git says there are changes but I didn't change anything?!](#gitignore)
